@@ -1,6 +1,7 @@
 # 奇怪的MCU/ESP8266开发板-----开发中！！！！！！！！
 ## 拥有充电，电量检测以及两个额外的ADCio等功能的esp8266开发板
 ### 注意本开发板没有自动烧录可能对新手不算友好，但是有效解决误刷入
+### 有type-c和micro usb俩个版本
 ![image](https://github.com/bilibilifmk/odd_mcu/blob/master/img/pcbc.png)
 ![image](https://github.com/bilibilifmk/odd_mcu/blob/master/img/pcb1.png) ![image](https://github.com/bilibilifmk/odd_mcu/blob/master/img/pcb2.png)
 ![image](https://github.com/bilibilifmk/odd_mcu/blob/master/img/pcb3.png) ![image](https://github.com/bilibilifmk/odd_mcu/blob/master/img/pcb4.png)
